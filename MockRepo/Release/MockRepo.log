@@ -1,0 +1,12 @@
+﻿  EmailMock.cpp
+  FullnameMock.cpp
+D:\Deadline HK2 nam 2\OOP\TH_07\MockRepo\FullnameMock.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+D:\Deadline HK2 nam 2\OOP\TH_07\MockRepo\FullnameMock.cpp(91,22): warning C4018: '<': signed/unsigned mismatch
+D:\Deadline HK2 nam 2\OOP\TH_07\MockRepo\FullnameMock.cpp(115,22): warning C4018: '<': signed/unsigned mismatch
+  StudentManager.cpp
+D:\Deadline HK2 nam 2\OOP\TH_07\MockRepo\StudentManager.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\Deadline HK2 nam 2\OOP\TH_07\MockRepo\StudentManager.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+D:\Deadline HK2 nam 2\OOP\TH_07\MockRepo\StudentManager.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+D:\Deadline HK2 nam 2\OOP\TH_07\MockRepo\StudentManager.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+  StudentMock.cpp
+  MockRepo.vcxproj -> D:\Deadline HK2 nam 2\OOP\TH_07\MockRepo\Release\MockRepo.lib
